@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil! 💕
-# Meu nome é Joao
+# Meu nome é Marina
 - sou estudante do Alura
 - estou desenvolvendo meu primeiro projeto no Github
 - estou na segunda série do ensino fundamental
