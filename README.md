@@ -2,7 +2,7 @@
 # Meu nome é Marina
 - sou estudante do Alura
 - estou desenvolvendo meu primeiro projeto no Github
-- estou na segunda série do ensino fundamental
+- estou na segunda série do ensino médio
 
  
 quer entrar em contato comigo? 
