@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil! 💕
 # Meu nome é Marina
 - sou estudante do Alura
-- estou desenvolvendo meu primeiro projeto no Github
+- estou adicionando aqui meus projetos escolares
 - estou na terceira série do ensino médio
 
  
